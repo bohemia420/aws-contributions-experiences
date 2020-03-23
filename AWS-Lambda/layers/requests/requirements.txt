@@ -1,0 +1,4 @@
+requests
+chardet
+certifi
+idna
